@@ -1,5 +1,5 @@
 # messageboardPrototype
-messageboard Prototype built by MEAN 
+messageboard Prototype built within MEAN Tech Stack. 
 
 ## What included:
 
@@ -14,6 +14,7 @@ Same for every new projects.
 
 
 Middleware;
+
 Controllers or request handlers;
 
 
@@ -21,6 +22,7 @@ Controllers or request handlers;
 
 
 MongoDB and Mongoose library;
+
 Schemas and models;
 
 
@@ -28,8 +30,11 @@ Schemas and models;
 
 
 Directives built;
+
 Controllers;
+
 Views;
+
 Routes and State;
 
 
@@ -37,8 +42,11 @@ Routes and State;
 
 
 Using satellizer;
+
 Registration and login;
+
 Authorization;
+
 Tokens;
 
 
