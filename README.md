@@ -7,7 +7,7 @@ messageboard Prototype built by MEAN
 ### Node Package Manager
 	
 
-	Same for every new projects.
+Same for every new projects.
 
 
 ### Express 
