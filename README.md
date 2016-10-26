@@ -100,7 +100,7 @@ start the front-end
 cd front-end
 npm install
 bower install
-gulp server
+gulp serve
 ```
 
 
